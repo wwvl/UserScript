@@ -7,7 +7,7 @@
 // @description  Add a floating TOC navigation to Vant documentation
 // @description:zh-CN  为 Vant 文档添加悬浮目录导航，支持章节跳转、目录拖拽、滚动同步
 // @match        https://vant.pro/vant*
-// @downloadURL  https://fastly.jsdelivr.net/gh/wwvl/UserScript@main/vant-doc-toc.user.js
+// @downloadURL  https://fastly.jsdelivr.net/gh/wwvl/UserScript@main/scripts/vant-doc-toc.user.js
 // @license      Apache-2.0
 // @grant        none
 // @run-at       document-end
